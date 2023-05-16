@@ -597,6 +597,7 @@ header .container .links:hover ul li a:hover {
     background-color: transparent;
     caret-color: white;
     border-bottom: 2px solid white;
+    color: white;
 }
 .section8 .container .box form input::placeholder,
 .section8 .container .box form textarea::placeholder {
@@ -619,6 +620,7 @@ header .container .links:hover ul li a:hover {
     background-color: transparent;
     caret-color: white;
     border-bottom: 2px solid white;
+    color: white;
 }
 .section8 .container .box form button {
     width: fit-content;
